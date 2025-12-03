@@ -243,7 +243,7 @@ var opts = {
 var y = maxBy( x, opts, clbk );
 // returns <ndarray>
 
-var dt = getDType( y );
+var dt = String( getDType( y ) );
 // returns 'float64'
 ```
 

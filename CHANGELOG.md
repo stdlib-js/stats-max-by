@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-15)
+## Unreleased (2025-12-03)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`e6b2007`](https://github.com/stdlib-js/stdlib/commit/e6b200700c411f81de9a89334950f57099971014) - **docs:** update examples _(by Athan Reines)_
 -   [`5a1f204`](https://github.com/stdlib-js/stdlib/commit/5a1f204397fde0d8a7c9877e4c34491bbe64e077) - **style:** re-enable lint rule _(by Athan Reines)_
 -   [`2309e73`](https://github.com/stdlib-js/stdlib/commit/2309e734dac30835ae0da1f0cded664c3bfe39e2) - **docs:** remove dtype restriction _(by Athan Reines)_
 -   [`492af1d`](https://github.com/stdlib-js/stdlib/commit/492af1d2ee1a9aa44c5820d8cf71d5f2d81d62f7) - **docs:** fix notes _(by Athan Reines)_
