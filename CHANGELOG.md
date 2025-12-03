@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`2192360`](https://github.com/stdlib-js/stdlib/commit/21923606030eb12678894c265023c6d265a89968) - **test:** explicitly serialize dtypes to strings _(by Athan Reines)_
 -   [`e6b2007`](https://github.com/stdlib-js/stdlib/commit/e6b200700c411f81de9a89334950f57099971014) - **docs:** update examples _(by Athan Reines)_
 -   [`5a1f204`](https://github.com/stdlib-js/stdlib/commit/5a1f204397fde0d8a7c9877e4c34491bbe64e077) - **style:** re-enable lint rule _(by Athan Reines)_
 -   [`2309e73`](https://github.com/stdlib-js/stdlib/commit/2309e734dac30835ae0da1f0cded664c3bfe39e2) - **docs:** remove dtype restriction _(by Athan Reines)_
