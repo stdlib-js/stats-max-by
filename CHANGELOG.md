@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`2d2c81b`](https://github.com/stdlib-js/stdlib/commit/2d2c81b60826f00bffc81269099cc64b7177ecdd) - **docs:** update parameter name _(by Athan Reines)_
 -   [`911af88`](https://github.com/stdlib-js/stdlib/commit/911af88583e1b29ffa7f857e20b74cfafba80081) - **docs:** update descriptions _(by Athan Reines)_
 -   [`2192360`](https://github.com/stdlib-js/stdlib/commit/21923606030eb12678894c265023c6d265a89968) - **test:** explicitly serialize dtypes to strings _(by Athan Reines)_
 -   [`e6b2007`](https://github.com/stdlib-js/stdlib/commit/e6b200700c411f81de9a89334950f57099971014) - **docs:** update examples _(by Athan Reines)_
