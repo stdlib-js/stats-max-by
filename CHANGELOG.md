@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-03)
+## Unreleased (2025-12-04)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`911af88`](https://github.com/stdlib-js/stdlib/commit/911af88583e1b29ffa7f857e20b74cfafba80081) - **docs:** update descriptions _(by Athan Reines)_
 -   [`2192360`](https://github.com/stdlib-js/stdlib/commit/21923606030eb12678894c265023c6d265a89968) - **test:** explicitly serialize dtypes to strings _(by Athan Reines)_
 -   [`e6b2007`](https://github.com/stdlib-js/stdlib/commit/e6b200700c411f81de9a89334950f57099971014) - **docs:** update examples _(by Athan Reines)_
 -   [`5a1f204`](https://github.com/stdlib-js/stdlib/commit/5a1f204397fde0d8a7c9877e4c34491bbe64e077) - **style:** re-enable lint rule _(by Athan Reines)_
