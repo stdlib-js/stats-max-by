@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-05)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`1370ff7`](https://github.com/stdlib-js/stdlib/commit/1370ff792d230c5cf14568ee1418af5603cb3579) - **bench:** use string interpolation in `stats/max-by` [(#10703)](https://github.com/stdlib-js/stdlib/pull/10703) _(by Om-A-osc)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Om-A-osc
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-08)
